@@ -1,0 +1,20 @@
+div {
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+svg {
+    width: 70vw;
+}
+aside {
+    margin-left: 5vw;
+    font-size: 20px;
+    width: 15vw;
+    height: min-content;
+    padding: 10px;
+    border: 10px double orange;
+    border-radius: 50px;
+    display: block;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
